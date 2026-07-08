@@ -63,11 +63,11 @@ This project is an interactive Power BI dashboard built to analyze e-commerce sa
 
 ### Page 2
 
-![Dashboard Page 2](Dashboard_Page_2.png)
+![Dashboard Page 2](Dashboard_page_2.png)
 
 ### Page 3
 
-![Dashboard Page 3](Dashboard_Page_3.png)
+![Dashboard Page 3](Dashboard_page_3.png)
 
 ---
 
