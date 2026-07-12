@@ -31,10 +31,7 @@ This project is an interactive Power BI dashboard built to analyze e-commerce sa
 - Total Profit
 - Total Orders
 - Total Customers
-- Average Sales per Customer
-- Average Profit per Customer
-- Profit Margin (%)
-
+- Average Discount
 ---
 
 ## 📊 Dashboard Features
